@@ -1,4 +1,4 @@
-<h3>👋 Hi, I'm {<a href="https://ahmetcancicek.dev">Ahmet Can Çiçek}</a></h1>
+<h3>👋 Hi, I'm {<a href="https://ahmetcancicek.dev" target="_blank">Ahmet Can Çiçek}</a></h1>
 
 - 💻 I'm a software engineer, researcher, and student
 - 🌱 I’m currently learning **Blockchain**
